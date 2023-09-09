@@ -152,6 +152,10 @@
         max-width: 160px;
     }
 
+    .mh-sm-160 {
+        max-height: 160px;
+    }
+
     .pr-40 {
         padding-right: 40px;
     }
