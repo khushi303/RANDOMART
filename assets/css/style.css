@@ -181,6 +181,16 @@
     }
 }
 
+@media (min-width: 1700px) {
+    .custum-container {
+        max-width: 1620px;
+        padding-left: 12px;
+        padding-right: 12px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 @media (max-width:992px) {
     .mobile-veiw {
         position: fixed;
