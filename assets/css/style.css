@@ -86,13 +86,17 @@
     display: none !important;
 }
 
+.mw-98 {
+    max-width: 98px;
+}
+
 @media (min-width:576px) {
     .mw-pl {
         max-width: 400px;
     }
 
     .mw-sm-160 {
-        max-width: 160px;
+        max-width: 160px !important;
     }
 }
 
