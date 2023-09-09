@@ -133,11 +133,15 @@
     max-width: 50px;
 }
 
-/* @media (max-width:490px) and (min-width:391px) {
+@media (max-width:490px) and (min-width:391px) {
     .mw-mouse {
-        max-width: 80px;
+        max-width: 85px;
     }
-} */
+
+    /* .mw-tree {
+        max-width: 108px;
+    } */
+}
 
 @media (min-width:576px) {
     .mw-pl {
