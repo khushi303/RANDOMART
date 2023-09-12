@@ -146,6 +146,10 @@
     height: 30px;
 }
 
+.cur-pointer {
+    cursor: pointer;
+}
+
 @media (max-width:490px) and (min-width:391px) {
     .mw-mouse {
         max-width: 85px;
